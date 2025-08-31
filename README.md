@@ -1,5 +1,7 @@
 This guide explains how to package Microsoft Copilot as a standalone Linux desktop app using Nativefier. It includes fixes for temp directory errors and launcher integration for XFCE.
 
+![Copilot demo](Peek 2025-08-31 00-49.gif)
+
 ## Packaging Microsoft Copilot as a Native Linux App
 
 This writeup documents how to package [https://copilot.microsoft.com](https://copilot.microsoft.com) as a standalone desktop app using Nativefier. It includes launcher integration and persistent fixes for temp directory and permission issues. Built and validated in a customized Xubuntu environment.
